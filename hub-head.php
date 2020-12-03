@@ -8,14 +8,20 @@
     <meta name="description" content="DRR Media Hub">
 
    <meta property='og:title' content='Disaster Risk Reduction Media Hub'/>
-	<meta property='og:image' content='//media.example.com/ 1234567.jpg'/>
+	<meta property='og:image' content='//drrhub.org/assets/img/drrhub-social.png'/>
 	<meta property='og:description' content='A toolkit for news media professionals reporting on disasters and resilience.'/>
 	<meta property='og:url' content='//drrhub.org'/>
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:site" content="@undrr" />
 	<meta name="twitter:title" content="A toolkit for news media professionals reporting on disasters and resilience." />
 	<meta name="twitter:description" content="A toolkit for news media professionals reporting on disasters and resilience." />
-	<meta name="twitter:image"   content="assets/img/twitter.jpg" />
+	<meta name="twitter:image"   content="assets/img/drrhub-social.png" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
 
     <link href="assets/css/loaders/loader-typing.css" rel="stylesheet" type="text/css" media="all" />
     <link href="assets/css/hub.css" rel="stylesheet" type="text/css" media="all" />    

@@ -64,7 +64,7 @@
             </div>
 	         <h3 class="mt-4">About this course</h3>
               <p class="lead"> 
-Learn about the World Metrological Organization and its work coordinating the observation, analysis, data exchange, and forecasting of weather, climate, water and environmental conditions.
+Learn about the World Meteorological Organization and its work coordinating the observation, analysis, data exchange, and forecasting of weather, climate, water and environmental conditions.
 </p>
 
 
@@ -174,7 +174,7 @@ Ean Wallace is a Broadcast Meteorologist based in Trinidad and Tobago.
                 </div>
                   <h4 class="mb-1">Weather Forecasting</h4>
                 <p class="flex-grow-1 mt-2">
-Learn about the World Metrological Organization and its work coordinating the observation, analysis, data exchange, and forecasting of weather, climate, water and environmental conditions.
+Learn about the World Meteorological Organization and its work coordinating the observation, analysis, data exchange, and forecasting of weather, climate, water and environmental conditions.
                 </p>
                 
                 <dl class="row">

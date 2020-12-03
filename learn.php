@@ -260,7 +260,7 @@ To receive the final certificate, participants of Group 1 and 3 should achieve a
                 </span>
               </div>
               <h3 class="">Weather Forecasting</h3>
-              <p>Learn about the World Metrological Organization and its work coordinating the observation, analysis, data exchange, and forecasting of weather, climate, water and environmental conditions.
+              <p>Learn about the World Meteorological Organization and its work coordinating the observation, analysis, data exchange, and forecasting of weather, climate, water and environmental conditions.
                 </p>
                 
                <div class="mt-4 btn btn-success btn-lg btn-block">
@@ -331,17 +331,16 @@ To receive the final certificate, participants of Group 1 and 3 should achieve a
               </div>	            
 
               <h3 class="">DRR Basics Quiz</h3>
-              <p>How much do you know about disaster risk reduction? If you're completed <strong>The basics of DRR video course</strong> (above), you might be ready to take a 10-minute test and challenge what you've learnt!
+              <p>How much do you know about disaster risk reduction? If you're completed <strong>The basics of DRR course</strong> (Block 2, above), you might be ready to take a 10-minute test and challenge what you've learnt!
                 </p>
                 <!--
                 <div class="mb-3">
                   <img class="icon icon-md" src="assets/img/logo_undrr_white.svg" alt="Icon">
                 </div>-->
                 
-                
-              <div class="mt-4 btn btn-success btn-lg btn-block">
+                <div class="mt-4 btn btn-success btn-lg btn-block">
                     <span>Now available</span>
-                  </div>
+                </div>
                   
                   
                                   
@@ -351,8 +350,8 @@ To receive the final certificate, participants of Group 1 and 3 should achieve a
 
 
           <div class="col-md-6 col-lg-4 col-xl-3 d-flex" data-aos="fade-up" data-aos-delay="50">
-            <a href="" class="card card-body justify-content-between card-learn bg-primary-2-alt">
-	            
+            <a href="https://learn.drrhub.org/" class="card card-body justify-content-between hover-shadow-3d card-learn bg-primary-2-alt">
+	            	            
 	           <div class="d-flex justify-content-between mb-3">
                 <div class="d-flex">
                   <div class="icon-round mb-3 mb-md-2 icon bg-primary">
@@ -363,17 +362,17 @@ To receive the final certificate, participants of Group 1 and 3 should achieve a
               </div>	            
 
               <h3 class="">DRR EWS Quiz</h3>
-              <p>If you've completed the video course 2 (above), it's time to register for a final test and achieve your WBU EWS certificate!
+              <p>If you've completed the Block 3 course (above), it's time to register for a final test and achieve your WBU EWS certificate!
                 </p>
                 
-              <div class="mt-4 btn btn-danger btn-lg btn-block">
-                    <span>Available soon</span>
+                <div class="mt-4 btn btn-success btn-lg btn-block">
+                    <span>Now available</span>
                 </div>
                                   
             </a>
           </div>
           <div class="col-md-6 col-lg-4 col-xl-3 d-flex" data-aos="fade-up" data-aos-delay="100">
-            <a href="" class="card card-body justify-content-between card-learn bg-primary-2-alt">
+            <a href="https://learn.drrhub.org/" class="card card-body justify-content-between hover-shadow-3d card-learn bg-primary-2-alt">
 	            
 	           <div class="d-flex justify-content-between mb-3">
                 <div class="d-flex">
@@ -385,18 +384,18 @@ To receive the final certificate, participants of Group 1 and 3 should achieve a
               </div>	            
 
               <h3 class="">DRR CAP Quiz</h3>
-              <p>If you're completed video course 3 (above), challenge yourself with a final test and achieve your WBU CAP certificate!
+              <p>If you're completed the Block 4 course (above), challenge yourself with a final test and achieve your WBU CAP certificate!
                 </p>
                 
-              <div class="mt-4 btn btn-danger btn-lg btn-block">
-                    <span>Available soon</span>
+                <div class="mt-4 btn btn-success btn-lg btn-block">
+                    <span>Now available</span>
                 </div>
             </a>
           </div>
 
           <div class="col-md-6 col-lg-4 col-xl-3 d-flex" data-aos="fade-up" data-aos-delay="150">
-            <a href="" class="card card-body justify-content-between card-learn bg-primary-2-alt">
-	            
+            <a href="https://learn.drrhub.org/" class="card card-body justify-content-between hover-shadow-3d card-learn bg-primary-2-alt">
+	            	            
 	           <div class="d-flex justify-content-between mb-3">
                 <div class="d-flex">
                   <div class="icon-round mb-3 mb-md-2 icon bg-primary">
@@ -407,18 +406,18 @@ To receive the final certificate, participants of Group 1 and 3 should achieve a
               </div>	            
 
               <h3 class="">DRR News Quiz</h3>
-              <p>If you're completed video course 4 (above), it's time to register for a final test and achieve your UNDRR News certificate!
+              <p>If you're completed the Block 5 course (above), it's time to register for a final test and achieve your UNDRR News certificate!
                 </p>
                 
-              <div class="mt-4 btn btn-danger btn-lg btn-block">
-                    <span>Available soon</span>
+                <div class="mt-4 btn btn-success btn-lg btn-block">
+                    <span>Now available</span>
                 </div>
             </a>
           </div>
 
           <div class="col-md-6 col-lg-4 col-xl-3 d-flex" data-aos="fade-up" data-aos-delay="200">
-            <a href="" class="card card-body justify-content-between card-learn bg-primary-2-alt">
-	           <div class="d-flex justify-content-between mb-3">
+            <a href="https://learn.drrhub.org/" class="card card-body justify-content-between hover-shadow-3d card-learn bg-primary-2-alt">
+	          <div class="d-flex justify-content-between mb-3">
                 <div class="d-flex">
                   <div class="icon-round mb-3 mb-md-2 icon bg-primary">
                 <img class="icon bg-primary" src="assets/img/icons/theme/general/lock.svg" alt="icon" data-inject-svg />
@@ -428,11 +427,11 @@ To receive the final certificate, participants of Group 1 and 3 should achieve a
               </div>	            
 
               <h3 class="">DRR Documentary Quiz</h3>
-              <p>If you've completed the video course 5 (above), it's time to register for a final test and achieve your WBU DRR Documentary certificate!
+              <p>If you've completed the Block 6 course (above), it's time to register for a final test and achieve your WBU DRR Documentary certificate!
                 </p>
                 
-              <div class="mt-4 btn btn-danger btn-lg btn-block">
-                    <span>Available soon</span>
+                <div class="mt-4 btn btn-success btn-lg btn-block">
+                    <span>Now available</span>
                 </div>
             </a>
           </div>
