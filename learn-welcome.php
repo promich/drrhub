@@ -148,8 +148,8 @@ Broadcasters across the world are attempting to establish a long-term capacity b
                 </p>
                 
                 <dl class="row">
-                  <dt class="col-3 mb-2">Duration</dt>
-                  <dd class="col-9 mb-2">Approximately 30 mins</dd>
+                  <dt class="col-4 mb-2">Duration</dt>
+                  <dd class="col-8 mb-2">Approximately 30 mins</dd>
                 </dl>
 
             <div class="row no-gutters mt-4 mb-2 d-none d-md-flex">

@@ -178,10 +178,10 @@ Learn about the World Meteorological Organization and its work coordinating the 
                 </p>
                 
                 <dl class="row">
-                  <dt class="col-3 mb-2">Duration</dt>
-                  <dd class="col-9 mb-2">Approximately 1 hour</dd>
-                  <dt class="col-3 mb-2">Structure</dt>
-                  <dd class="col-9 mb-2">6 modules</dd>
+                  <dt class="col-4 mb-2">Duration</dt>
+                  <dd class="col-8 mb-2">Approximately 1 hour</dd>
+                  <dt class="col-4 mb-2">Structure</dt>
+                  <dd class="col-8 mb-2">6 modules</dd>
                   </dd>
                 </dl>
 

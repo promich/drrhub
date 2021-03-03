@@ -165,10 +165,10 @@ It’s no exaggeration to say DRR is one of the big stories of our age. The stak
                 </p>
                 
                 <dl class="row">
-                  <dt class="col-3 mb-2">Duration</dt>
-                  <dd class="col-9 mb-2">Approximately 2 hours</dd>
-                  <dt class="col-3 mb-2">Structure</dt>
-                  <dd class="col-9 mb-2">10 modules</dd>
+                  <dt class="col-4 mb-2">Duration</dt>
+                  <dd class="col-8 mb-2">Approximately 2 hours</dd>
+                  <dt class="col-4 mb-2">Structure</dt>
+                  <dd class="col-8 mb-2">10 modules</dd>
                   </dd>
                 </dl>
 

@@ -78,6 +78,11 @@
 <div class="tab-content mt-4" id="myTabContent">
   <div class="tab-pane fade show active" id="further" role="tabpanel" aria-labelledby="further-tab">
 	<div class="d-flex flex-column">
+
+	  <a href="assets/pdf/blk5-tips-scene.pdf" class="hover-arrow pb-2">Practical tips: At the scene</a>
+	  <a href="assets/pdf/blk5-tips-editor.pdf" class="hover-arrow pb-2">Practical tips: Editor's list</a>
+	  <a href="assets/pdf/blk5-tips-station.pdf" class="hover-arrow pb-4">Practical tips: At the station</a>
+	  
 	  <a href="http://drrhub.org/essential-ten.php" class="hover-arrow pb-2">Ten good reasons to report on disaster risk reduction</a>
 	  <a href="http://drrhub.org/essential-roles.php" class="hover-arrow pb-2">Roles and responsibilities of the media</a>
 	  <a href="http://drrhub.org/essential-practical.php" class="hover-arrow pb-2">Practical tips for journalists and editors</a>
@@ -104,7 +109,7 @@ After the fury of the event itself......The next step for the editor is to allow
 </p><p>
 It's also very important to meet the people who are involved as stakeholders before disasters occur. That is, organise meetings with National Disaster Management people, NGO's / Red Cross, and make sure that vulnerable groups are included.... it's the editor's responsibility to sensitise and initiate education in this sense.
 </p><p>
-For reporters and researchers,  build up your contacts, - your editors might have opened the door - you have to step in. Line up your experts, know their specialities. Have a list for early warning systems, urban risks, climate change, gender,environmental, national and local meteorological departments, disaster managers, civil protection and leading NGOs.
+For reporters and researchers,  build up your contacts, - your editors might have opened the door - you have to step in. Line up your experts, know their specialities. Have a list for early warning systems, urban risks, climate change, gender, environmental, national and local meteorological departments, disaster managers, civil protection and leading NGOs.
 </p><p>
  Basically cover all the possible disasters likely to happen in your area by having an expert to guide you.
  </p><p>
@@ -118,7 +123,7 @@ Base your information on the facts and sound scientific knowledge.
 </p><p>
 And always listen to the people involved-  help safeguard communities - lives and livelihoods are paramount.
 </p><p>
-This is not a basic journalism course but remember the key elements to a good broadcast story that are more imortant than ever in trying to reduce risks...
+This is not a basic journalism course but remember the key elements to a good broadcast story that are more important than ever in trying to reduce risks...
 Be clear - speak to your audience.... avoid jargon!
 </p><p>
 Let your pictures lead and tell your story concisely- audiences usually only get one chance to understand.
